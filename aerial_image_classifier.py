@@ -20,12 +20,12 @@ Blog: https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL
 """
 
 # mount Google Drive 
-from google.colab import drive
-drive.mount('/content/drive')
+# from google.colab import drive
+# drive.mount('/content/drive')
 
 # change directory 
 import os
-os.chdir('/content/drive/MyDrive/BAN 676 - Deep Learning/individual project')
+# os.chdir('/content/drive/MyDrive/BAN 676 - Deep Learning/individual project')
 
 """##Preprocessing
 
